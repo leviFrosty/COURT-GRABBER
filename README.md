@@ -6,6 +6,8 @@ With COURT-GRABBER there is no more fighting over being the fastest person to cl
 
 You will always get a court at the desired time, if there ever is any available.
 
+I built this for me targeting a very specific scheduling api, this isn't intended for general use!
+
 ## Prerequisites
 
 1. Install [Bun](https://bun.sh/docs/installation)
